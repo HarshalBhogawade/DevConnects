@@ -17,8 +17,10 @@ DevConnects is a web application designed to connect developers worldwide. It pr
 - User profiles for developers
 - Project showcase section
 - Skills and expertise display
-- Contact and networking options
+- Contact and networking option
 - Responsive design for all devices
+- Developer-to-developer DM or group chat
+
 
 ## Installation
 
